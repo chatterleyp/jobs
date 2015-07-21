@@ -1,0 +1,47 @@
+title: Senior Python Developer
+company: Network Locum
+url: http://www.networklocum.com
+location: Shoreditch, London, United Kingdom
+contract: permanent
+contact:
+    name: Peter Chatterley
+    email: peter@networklocum.com
+    phone: +447979523577
+    ...: ...
+created: !!timestamp '2015-07-21'
+tags:
+  - london
+  - python
+  - redis
+  - django
+  - senior
+  - django
+---
+
+Network Locum is an online marketplace in the health tech sector matching temporary (locum) GPs with practices looking to find someone to cover a session. We get over 10000 sessions posted every month, and are helping to transform the way the locum marketplace works.
+
+We are funded with some well known investors, have a strong business plan that is generating revenue already and are now building our capability in delivering agile functionality to our customers.
+
+We have grown dramatically over the last 4 months, with both increased users and clients hitting those all important metrics that investors like to see.
+
+We are now growing our engineering team and are looking for developers with potential to grow with us as well as more senior developers that would like to take on more technical leading responsibilities.
+
+
+technology stack comprises mainly of interconnected microservices in Python and Django chattering over Redis, with some Backbone.JS giving our frontend a bit of dazzle.
+
+You should be
+
+Really comfortable with leading web development of a full-scale site in Django and Python
+Well versed in surrounding web technologies (Javascript, CSS, MySQL, etc.)
+100% behind software engineering best-practices: TDD, git, infrastructure as code
+Interested in the wider world of technology, and interested in or knowledgable of at least some of the following: Redis, MongoDB, Backbone.JS
+Fairly happy in a unix shell. Sysadmin skills are a benefit. We’re an AWS shop
+Happy to make decisions around the overall architecture of the system, and proactive in helping us change and optimise existing systems
+*What we're offering*
+* A chance to shape the technological fate of an exciting, fast-growing company 
+* An office full of awesome people who you'll definitely want to hang out with 
+* A bunch of responsibility and autonomy from day one. Expect to release code on your first day!
+* A great salary, equity, and plenty of room to grow!
+
+We're a team of 25 people based in Shoreditch, and we have a load of fun together. If you'd like to join us and be challenged on a daily basis, while having fun with great people.
+Please send a CV to the address above.
